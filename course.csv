@@ -1,0 +1,689 @@
+term_code,course_id,subject,course_num,instr_method,faculty_id
+Fall 2021,be7ee771,Mahjong Strategy,000D,Online Synchronous,8e06c44c
+Fall 2021,50727605,Mahjong Strategy,000D,Online Synchronous,36c4c411
+Fall 2021,f0a4d7a5,Mahjong Strategy,000D,Online Asynchronous,16483b70
+Fall 2021,3803de09,Mahjong Strategy,000G,Online Synchronous,045a390a
+Fall 2021,08504c05,Mahjong Strategy,001,Online Synchronous,8bb57dea
+Fall 2021,4917c11a,Mahjong Strategy,001,Online Synchronous,30daba30
+Fall 2021,45742f76,Mahjong Strategy,001,Online Synchronous,30daba30
+Fall 2021,1bf69555,Mahjong Strategy,001,Online Synchronous,35594791
+Fall 2021,a1bebd6d,Mahjong Strategy,001,Online Synchronous,b72d0bb9
+Fall 2021,afd541e3,Mahjong Strategy,001,Online Synchronous,1f08d8f0
+Fall 2021,d76b872b,Mahjong Strategy,001C,Online Synchronous,b72d0bb9
+Fall 2021,a8021a38,Mahjong Strategy,001C,Online Synchronous,1f08d8f0
+Fall 2021,12da36be,Mahjong Strategy,002,Online Synchronous,1fa38796
+Fall 2021,84e3a411,Mahjong Strategy,002,Online Synchronous,7c82b00c
+Fall 2021,acb466a9,Mahjong Strategy,002,Online Synchronous,045a390a
+Fall 2021,d5ca445f,Mahjong Strategy,003A,Online Synchronous,2e64caf3
+Fall 2021,97f3fcd6,Mahjong Strategy,003A,Online Synchronous,2e64caf3
+Fall 2021,81e02dee,Mahjong Strategy,003A,Online Synchronous,5004ca71
+Fall 2021,d2c536c9,Mahjong Strategy,003A,Online Synchronous,1fa38796
+Fall 2021,a4d9df10,Mahjong Strategy,003A,Online Synchronous,35594791
+Fall 2021,c9951997,Mahjong Strategy,003A,Online Synchronous,35594791
+Fall 2021,f1501400,Mahjong Strategy,003B,Online Synchronous,bb383f76
+Fall 2021,f604ca05,Mahjong Strategy,003B,Online Synchronous,bb383f76
+Fall 2021,cf709a6a,Mahjong Strategy,003B,Online Synchronous,30f54ddd
+Fall 2021,9956edf1,Mahjong Strategy,003B,Online Asynchronous,16483b70
+Fall 2021,6dba3cf4,Mahjong Strategy,004A,Online Synchronous,0a428e2a
+Fall 2021,9955e8c8,Mahjong Strategy,004A,Online Synchronous,30f54ddd
+Fall 2021,d6ee7464,Mahjong Strategy,004A,Online Synchronous,43e0ed7d
+Fall 2021,9e8ec9f3,Mahjong Strategy,004A,Online Synchronous,43e0ed7d
+Fall 2021,25bc76d9,Mahjong Strategy,004A,Online Synchronous,77454894
+Fall 2021,4a816ec1,Mahjong Strategy,004B,Online Asynchronous,16483b70
+Fall 2021,3f26be2b,Mahjong Strategy,004C,Online Synchronous,30f54ddd
+Fall 2021,20e84103,Mahjong Strategy,004C,Online Asynchronous,16483b70
+Fall 2021,328cbbf4,Mahjong Strategy,010,Online Synchronous,56306ff5
+Fall 2021,322d4c7c,Mahjong Strategy,010,Online Synchronous,4d07d7e3
+Fall 2021,4a72162f,Mahjong Strategy,010,Online Synchronous,8e06c44c
+Fall 2021,f42de7fd,Mahjong Strategy,010,Online Synchronous,5004ca71
+Fall 2021,3d7720b2,Mahjong Strategy,010,Online Synchronous,36c4c411
+Fall 2021,f04f4bf4,Mahjong Strategy,010,Online Synchronous,3cbbf748
+Fall 2021,759a3a3b,Mahjong Strategy,010,Online Synchronous,74bd7ee3
+Fall 2021,2cb81496,Mahjong Strategy,010,Online Synchronous,82735270
+Fall 2021,ce6de270,Mahjong Strategy,010,Online Synchronous,dea94920
+Fall 2021,8e349384,Mahjong Strategy,010,Online Synchronous,dea94920
+Fall 2021,dd6453d7,Mahjong Strategy,010,Online Synchronous,82005d92
+Fall 2021,dff84d37,Mahjong Strategy,010,Online Synchronous,8bb57dea
+Fall 2021,fe869aae,Mahjong Strategy,010,Online Synchronous,c42dacfd
+Fall 2021,546f214a,Mahjong Strategy,010,Online Synchronous,1f08d8f0
+Fall 2021,3666b21a,Mahjong Strategy,010,Online Synchronous,1fa38796
+Fall 2021,669254be,Mahjong Strategy,010,Online Synchronous,bb383f76
+Fall 2021,73edd4c4,Mahjong Strategy,010,Online Synchronous,74bd7ee3
+Fall 2021,f38e01c7,Mahjong Strategy,010,Online Asynchronous,bda7d186
+Fall 2021,d57c4893,Mahjong Strategy,010,Online Asynchronous,bda7d186
+Fall 2021,64433aee,Mahjong Strategy,010,Online Asynchronous,4393de6e
+Fall 2021,21c1733e,Mahjong Strategy,010,Online Asynchronous,4393de6e
+Fall 2021,855a2209,Eel Catching,001A,Online Synchronous,807896f4
+Fall 2021,7c38ba0a,Eel Catching,001C,Online Asynchronous,3d9863ef
+Fall 2021,6afb8359,Mahjong Strategy,010C,Online Synchronous,1f08d8f0
+Fall 2021,a1f017a7,Mahjong Strategy,010C,Online Synchronous,1fa38796
+Fall 2021,0749ecd5,Mahjong Strategy,010C,Online Synchronous,bb383f76
+Fall 2021,737a6e55,Mahjong Strategy,010C,Online Synchronous,74bd7ee3
+Fall 2021,92c656a9,Mahjong Strategy,012,Online Synchronous,75391c8d
+Fall 2021,83b243d1,Mahjong Strategy,012,Online Synchronous,75391c8d
+Fall 2021,2bfe8e62,Mahjong Strategy,012,Online Synchronous,2e64caf3
+Fall 2021,86753e4c,Mahjong Strategy,012,Online Asynchronous,4393de6e
+Fall 2021,7cc76cd0,Mahjong Strategy,012,Online Asynchronous,7c82b00c
+Fall 2021,88823e19,Mahjong Strategy,012C,Online Synchronous,2e64caf3
+Fall 2021,9cd4093e,Mahjong Strategy,014,Online Synchronous,b72d0bb9
+Fall 2021,86bf8463,Mahjong Strategy,019,Online Synchronous,7c82b00c
+Fall 2021,6947847a,Mahjong Strategy,105,Online Synchronous,3b62d036
+Fall 2021,8caa5076,Mahjong Strategy,105,Online Synchronous,3b62d036
+Fall 2021,48d753ff,Mahjong Strategy,106,Online Synchronous,3b62d036
+Fall 2021,7b810ae6,Mahjong Strategy,106,Online Synchronous,dea94920
+Fall 2021,da6775dc,Mahjong Strategy,106,Online Synchronous,82005d92
+Fall 2021,f4335eb5,Mahjong Strategy,106,Online Synchronous,30ec5198
+Fall 2021,1785d519,Mahjong Strategy,106,Online Asynchronous,4393de6e
+Fall 2021,483fd22e,Mahjong Strategy,106,Online Asynchronous,30ec5198
+Fall 2021,6f451884,Mahjong Strategy,106C,Online Synchronous,82005d92
+Fall 2021,d57a6a7a,Eel Catching,044,In-Person,b799d602
+Fall 2021,e8f21287,Crocheting,001,In-Person,d72fc7c3
+Fall 2021,f7650ad1,Crocheting,001,In-Person,d72fc7c3
+Fall 2021,55142fe5,Crocheting,008,Online Asynchronous,d72fc7c3
+Fall 2021,2e74a477,Crocheting,001,Online Asynchronous,d72fc7c3
+Fall 2021,b3d50d99,Crocheting,004,Online Asynchronous,d72fc7c3
+Fall 2021,24c17302,Crocheting,012,Online Asynchronous,028ed6ef
+Fall 2021,857ac0ce,Crocheting,012,Online Asynchronous,028ed6ef
+Fall 2021,08de57b8,Crocheting,007,Online Asynchronous,028ed6ef
+Fall 2021,10672195,Crocheting,001,Online Asynchronous,d766b048
+Fall 2021,486b03b3,Crocheting,008,Online Synchronous,f2dfdec3
+Fall 2021,320bf14c,Crocheting,001,Online Asynchronous,f2dfdec3
+Fall 2021,eccf1404,Crocheting,001,Online Asynchronous,f2dfdec3
+Fall 2021,09d7b85f,Crocheting,004,Online Asynchronous,f2dfdec3
+Fall 2021,35817482,Crocheting,004,Online Asynchronous,f2dfdec3
+Fall 2021,e49a8a4f,Crocheting,012,Online Asynchronous,509250c8
+Fall 2021,5faa5eb5,Crocheting,020,Online Asynchronous,509250c8
+Fall 2021,1fcd95ce,Crocheting,020,Online Asynchronous,509250c8
+Fall 2021,b5b1b131,Crocheting,001,Online Asynchronous,509250c8
+Fall 2021,16d0b9f9,Crocheting,001,Online Asynchronous,509250c8
+Fall 2021,a4b81228,Crocheting,001,Online Synchronous,7fb7228a
+Fall 2021,12b00db1,Crocheting,001,Online Synchronous,7fb7228a
+Fall 2021,fbd17c18,Crocheting,001,Online Synchronous,7fb7228a
+Fall 2021,50af4a61,Crocheting,001,Online Asynchronous,69348504
+Fall 2021,5810a249,Crocheting,001,Online Synchronous,419b60ce
+Fall 2021,9de80aef,Crocheting,010,Online Synchronous,419b60ce
+Fall 2021,3da0cc8c,Crocheting,001,Online Asynchronous,32bac75b
+Fall 2021,d404225d,Crocheting,010,Online Asynchronous,32bac75b
+Fall 2021,f65e24e0,Crocheting,001,Online Asynchronous,72389931
+Fall 2021,732fc83b,Crocheting,001,Online Asynchronous,4daefd6e
+Fall 2021,05cf8dbc,Crocheting,001,Online Synchronous,419b60ce
+Fall 2021,e55f6127,Crocheting,001,Online Asynchronous,d766b048
+Fall 2021,63947760,Crocheting,001,Online Asynchronous,72389931
+Fall 2021,154b06ca,Eel Catching,001B,In-Person,b799d602
+Fall 2021,0aff558e,Eel Catching,001A,Online Asynchronous,0e343a50
+Fall 2021,53c6b218,Eel Catching,099X,Online Asynchronous,0e343a50
+Fall 2021,1abde9e6,Eel Catching,001A,Online Synchronous,c6c1d748
+Fall 2021,2c59007a,Eel Catching,001B,Online Asynchronous,b5e59e1c
+Fall 2021,7ee88e20,Eel Catching,905,Online Synchronous,3b14eeea
+Fall 2021,fa634167,Eel Catching,001A,Online Synchronous,1e36e8a1
+Fall 2021,9e09cdb4,Eel Catching,001C,Online Synchronous,703d15c9
+Fall 2021,850bd3c3,Eel Catching,001B,Online Asynchronous,91de6e7e
+Fall 2021,14f88a5f,Eel Catching,001A,Online Synchronous,807896f4
+Fall 2021,e7c85d2a,Eel Catching,903,Online Synchronous,c6c1d748
+Fall 2021,81d43d27,Eel Catching,001A,Online Synchronous,e11e3b64
+Fall 2021,94bef8a0,Eel Catching,001B,Online Asynchronous,3d9863ef
+Fall 2021,7259c7e7,Eel Catching,007A,In-Person,78c87a35
+Fall 2021,b28e5be6,Eel Catching,001A,Online Asynchronous,b5e59e1c
+Fall 2021,d858718a,Eel Catching,001A,Online Synchronous,3b14eeea
+Fall 2021,295da6fd,Eel Catching,001A,In-Person,b799d602
+Fall 2021,4591098a,Eel Catching,001B,Online Synchronous,76ccc3a2
+Fall 2021,a1a9b59a,Eel Catching,001A,Online Synchronous,1e36e8a1
+Fall 2021,4aa15f34,Eel Catching,099X,Online Asynchronous,1e36e8a1
+Fall 2021,2a2fe6ac,Eel Catching,001B,Online Asynchronous,91de6e7e
+Fall 2021,0f39a651,Eel Catching,001A,Online Synchronous,703d15c9
+Fall 2021,2eb83e16,Eel Catching,001A,In-Person,78c87a35
+Fall 2021,bbc0d2fe,Eel Catching,070,Online Synchronous,ddc786c8
+Fall 2021,9488ea29,Eel Catching,001A,Online Synchronous,4cd2e62e
+Fall 2021,8cc733c7,Eel Catching,001A,Online Synchronous,4cd2e62e
+Fall 2021,99563417,Eel Catching,001B,Online Asynchronous,0e343a50
+Fall 2021,a0c0d00d,Eel Catching,080,Online Synchronous,ddc786c8
+Fall 2021,f1140fb4,Eel Catching,001A,Online Synchronous,c6c1d748
+Fall 2021,75f79d03,Eel Catching,001A,Online Synchronous,e11e3b64
+Fall 2021,9aeeb3de,Eel Catching,001A,Online Synchronous,c6c1d748
+Fall 2021,fc332339,Eel Catching,001B,Online Asynchronous,7c62ee9a
+Fall 2021,a8fd7742,Eel Catching,001C,Online Synchronous,703d15c9
+Fall 2021,a060635c,Eel Catching,001A,Online Synchronous,3d55b6a3
+Fall 2021,2ff2c9cd,Eel Catching,099X,Online Synchronous,3d55b6a3
+Fall 2021,0f302c2a,Eel Catching,001A,Online Synchronous,9fbdabcb
+Fall 2021,22986d6a,Eel Catching,018,Online Asynchronous,1e36e8a1
+Fall 2021,d28c2666,Eel Catching,001C,Online Synchronous,9fbdabcb
+Fall 2021,500c675e,Eel Catching,001B,Online Synchronous,703d15c9
+Fall 2021,4dfb5479,Eel Catching,001A,In-Person,78c87a35
+Fall 2021,71db6c4d,Eel Catching,001A,Online Synchronous,ddc786c8
+Fall 2021,bdb342e0,Eel Catching,001B,Online Synchronous,c6c1d748
+Fall 2021,80389344,Eel Catching,001A,Online Asynchronous,7c62ee9a
+Fall 2021,97fd8397,Eel Catching,005B,Online Asynchronous,1e36e8a1
+Fall 2021,a1245692,Apple Picking,001A,Online Asynchronous,647b620c
+Fall 2021,ad4261ab,Eel Catching,001B,Online Asynchronous,3d9863ef
+Fall 2021,4bac50c1,Eel Catching,001B,In-Person,78c87a35
+Fall 2021,bd0e4c87,Apple Picking,001A,Online Asynchronous,bfbd13fa
+Fall 2021,59868bdf,Eel Catching,001A,Online Synchronous,0d9fb080
+Fall 2021,b0dc1bf8,Apple Picking,001B,Online Asynchronous,bfbd13fa
+Fall 2021,b525aeab,Eel Catching,001A,Online Synchronous,ddc786c8
+Fall 2021,f2346520,Apple Picking,001D,Online Synchronous,bfbd13fa
+Fall 2021,3784f087,Apple Picking,001DH,Online Synchronous,bfbd13fa
+Fall 2021,33dc49ff,Eel Catching,001A,Online Synchronous,76ccc3a2
+Fall 2021,3b4485c7,Apple Picking,001E,Online Asynchronous,647b620c
+Fall 2021,6e1ee7f6,Apple Picking,004,Online Asynchronous,647b620c
+Fall 2021,0412b3e7,Apple Picking,004,Online Asynchronous,647b620c
+Fall 2021,ad3dd7f3,Apple Picking,010,Online Asynchronous,647b620c
+Fall 2021,2bab8c61,Apple Picking,013,Online Asynchronous,bfbd13fa
+Fall 2021,8412ebf0,Eel Catching,001A,Online Asynchronous,b8f1185f
+Fall 2021,9662000e,Apple Picking,014,Online Asynchronous,bfbd13fa
+Fall 2021,8b78f7f3,Eel Catching,099X,Online Asynchronous,b8f1185f
+Fall 2021,b36ed35d,Eel Catching,001A,Online Synchronous,3d55b6a3
+Fall 2021,8419782a,Eel Catching,001B,In-Person,b799d602
+Fall 2021,19cd8513,Apple Picking,095,Online Asynchronous,f7986b78
+Fall 2021,ca4033b7,Eel Catching,001A,Online Synchronous,d19592b6
+Fall 2021,9720c0b0,Eel Catching,001B,Online Synchronous,afb3629d
+Fall 2021,1af566c4,Eel Catching,001A,Online Synchronous,afb3629d
+Fall 2021,254ef9b2,Eel Catching,001A,Online Synchronous,b2e13a0c
+Fall 2021,0c034aca,Eel Catching,001A,Online Asynchronous,76ccc3a2
+Fall 2021,27301841,Eel Catching,001A,Online Asynchronous,b8f1185f
+Fall 2021,d6289a49,Eel Catching,001A,Online Asynchronous,91de6e7e
+Fall 2021,042e1956,Eel Catching,001A,Online Asynchronous,91de6e7e
+Fall 2021,c0359647,Eel Catching,001C,Online Asynchronous,3d9863ef
+Fall 2021,d815c569,Eel Catching,001A,Online Asynchronous,0e343a50
+Fall 2021,a58a0518,Eel Catching,001B,Online Asynchronous,c441dc3b
+Fall 2021,9174a644,Eel Catching,001B,Online Asynchronous,d19592b6
+Fall 2021,7c70f34c,Eel Catching,001B,Online Asynchronous,7c62ee9a
+Fall 2021,9ec8eaa3,Eel Catching,001B,Online Asynchronous,7c62ee9a
+Fall 2021,6829b4c2,Eel Catching,001A,Online Asynchronous,b8f1185f
+Fall 2021,bf4a4e06,Eel Catching,001A,Online Asynchronous,7c62ee9a
+Fall 2021,331eae9e,Eel Catching,001A,Online Asynchronous,b5e59e1c
+Fall 2021,78d2bc45,Eel Catching,001C,Online Asynchronous,3d9863ef
+Fall 2021,17755f39,Eel Catching,001B,Online Synchronous,ddc786c8
+Fall 2021,c12f5403,Apple Picking,031A,Online Asynchronous,49f20f01
+Fall 2021,d3b30537,Apple Picking,031A,In-Person,cc2edd0e
+Fall 2021,7a20bf6b,Apple Picking,031A,In-Person,686c99e1
+Fall 2021,f0c9452b,Apple Picking,031A,Online Asynchronous,647b620c
+Fall 2021,e68fdbac,Apple Picking,031B,Online Asynchronous,05a52d22
+Fall 2021,54a79340,Apple Picking,033A,In-Person,cc2edd0e
+Fall 2021,9361d0dd,Apple Picking,049A,Online Asynchronous,49f20f01
+Fall 2021,b9e74317,Apple Picking,049B,Online Asynchronous,49f20f01
+Fall 2021,19f3d2e5,Apple Picking,049C,Online Asynchronous,49f20f01
+Fall 2021,b3c3b41f,Apple Picking,055,Online Asynchronous,af87a468
+Fall 2021,5cad6517,Apple Picking,057A,Online Asynchronous,8081c442
+Fall 2021,f0048614,Apple Picking,057A,Online Asynchronous,8081c442
+Fall 2021,2d43be09,Apple Picking,062A,Online Asynchronous,fb10dc9f
+Fall 2021,602e454b,Apple Picking,062A,Online Asynchronous,fb10dc9f
+Fall 2021,de191b8d,Apple Picking,062B,Online Asynchronous,fb10dc9f
+Fall 2021,93afe466,Apple Picking,062C,Online Asynchronous,fb10dc9f
+Fall 2021,a313bc87,Apple Picking,081,Online Asynchronous,838a6a88
+Fall 2021,c08cf8fc,Apple Picking,081,In-Person,60a2c9bc
+Fall 2021,9dcdb437,Apple Picking,033C,Online Synchronous,af87a468
+Fall 2021,ce70c0d7,Apple Picking,033A,Online Asynchronous,af87a468
+Fall 2021,7199a210,Apple Picking,065A,In-Person,838a6a88
+Fall 2021,053baf3b,Apple Picking,065B,In-Person,3f68ace9
+Fall 2021,b83c5a88,Apple Picking,067A,In-Person,958d363d
+Fall 2021,1b7dfa83,Apple Picking,067A,In-Person,9e263630
+Fall 2021,d8c31d62,Apple Picking,067B,In-Person,958d363d
+Fall 2021,0ac56725,Apple Picking,035A,In-Person,cc2edd0e
+Fall 2021,866ee257,Apple Picking,047A,In-Person,e7088737
+Fall 2021,0edd03d1,Apple Picking,047B,In-Person,d5e2ebe1
+Fall 2021,bfa6eef0,Apple Picking,047C,In-Person,d5e2ebe1
+Fall 2021,1cbb6af3,Apple Picking,047D,In-Person,d5e2ebe1
+Fall 2021,c18561a5,Apple Picking,049A,In-Person,e7088737
+Fall 2021,b798bdce,Apple Picking,088A,In-Person,838a6a88
+Fall 2021,9beae705,Eel Catching,018H,Online Asynchronous,1e36e8a1
+Fall 2021,e0e44ded,Eel Catching,001B,Online Synchronous,0d9fb080
+Fall 2021,39f60566,Apple Picking,001A,Online Asynchronous,bfbd13fa
+Fall 2021,3c6e45c7,Apple Picking,001B,Online Asynchronous,bfbd13fa
+Fall 2021,35a545fb,Mahjong Strategy,001,Online Asynchronous,dd8cc395
+Fall 2021,df973434,Mahjong Strategy,004B,Online Asynchronous,16483b70
+Fall 2021,653395d7,Mahjong Strategy,004A,Online Asynchronous,82735270
+Fall 2021,5b8d654a,Eel Catching,001A,Online Asynchronous,b5e59e1c
+Fall 2022,08c6dd2a,Crocheting,001,In-Person,d72fc7c3
+Fall 2022,484d8489,Crocheting,008,Online Synchronous,d72fc7c3
+Fall 2022,0a8088cc,Crocheting,001,Online Asynchronous,d72fc7c3
+Fall 2022,736d701b,Crocheting,012,Online Asynchronous,028ed6ef
+Fall 2022,aa941243,Apple Picking,001A,Online Asynchronous,bfbd13fa
+Fall 2022,ef0005fd,Crocheting,012,Online Asynchronous,028ed6ef
+Fall 2022,cdddc9bc,Apple Picking,001A,Online Asynchronous,bfbd13fa
+Fall 2022,add0041f,Apple Picking,001A,Hyflex,647b620c
+Fall 2022,4f7deb15,Apple Picking,001B,Hyflex,bfbd13fa
+Fall 2022,b3ace626,Apple Picking,001B,Online Asynchronous,bfbd13fa
+Fall 2022,1904e8d2,Apple Picking,001D,Hyflex,bfbd13fa
+Fall 2022,ee326884,Apple Picking,001DH,Hyflex,bfbd13fa
+Fall 2022,605f54aa,Apple Picking,001E,Hyflex,647b620c
+Fall 2022,e8f9adfc,Apple Picking,004,Online Asynchronous,647b620c
+Fall 2022,8264ccd5,Apple Picking,004,Online Asynchronous,647b620c
+Fall 2022,5baee0ac,Apple Picking,010,Online Asynchronous,647b620c
+Fall 2022,641a9226,Apple Picking,014,Online Asynchronous,bfbd13fa
+Fall 2022,6236add7,Apple Picking,031A,Online Asynchronous,647b620c
+Fall 2022,00b25147,Apple Picking,031A,Online Asynchronous,49f20f01
+Fall 2022,69c36786,Apple Picking,031A,In-Person,cc2edd0e
+Fall 2022,d6487446,Apple Picking,031B,In-Person,05a52d22
+Fall 2022,6cf53a71,Apple Picking,033A,Online Asynchronous,af87a468
+Fall 2022,20b0551f,Apple Picking,035A,In-Person,cc2edd0e
+Fall 2022,b5ab44ef,Apple Picking,049A,Online Asynchronous,49f20f01
+Fall 2022,fa7e676a,Apple Picking,055,Hybrid,af87a468
+Fall 2022,731233a4,Apple Picking,065A,In-Person,958d363d
+Fall 2022,84ab5159,Apple Picking,065B,In-Person,838a6a88
+Fall 2022,f9ea5210,Apple Picking,065C,In-Person,838a6a88
+Fall 2022,ef9871ab,Apple Picking,065D,In-Person,838a6a88
+Fall 2022,18b03487,Apple Picking,067A,In-Person,3f68ace9
+Fall 2022,b3c9effa,Apple Picking,067B,In-Person,dc5353b0
+Fall 2022,27755b83,Apple Picking,081,In-Person,838a6a88
+Fall 2022,009706c1,Apple Picking,088B,In-Person,838a6a88
+Fall 2022,7bd8e0ce,Apple Picking,062A,In-Person,fb10dc9f
+Fall 2022,4dfe3ca8,Apple Picking,062A,Online Asynchronous,fb10dc9f
+Fall 2022,05ecbb74,Apple Picking,095,Online Asynchronous,f7986b78
+Fall 2022,cb71756e,Apple Picking,012A,Online Asynchronous,bfbd13fa
+Fall 2022,2f5bdac2,Crocheting,001,Hybrid,f2dfdec3
+Fall 2022,993084a2,Crocheting,008,In-Person,f2dfdec3
+Fall 2022,be2df4ea,Crocheting,004,In-Person,f2dfdec3
+Fall 2022,449f5874,Crocheting,001,Online Synchronous,f2dfdec3
+Fall 2022,85784778,Crocheting,012,In-Person,509250c8
+Fall 2022,d9119645,Crocheting,020,Hybrid,509250c8
+Fall 2022,07c48b45,Crocheting,020,Hybrid,509250c8
+Fall 2022,23de02dc,Crocheting,001,Online Synchronous,509250c8
+Fall 2022,5fbbac0c,Crocheting,001,Online Synchronous,509250c8
+Fall 2022,d60610aa,Crocheting,001,Hybrid,7fb7228a
+Fall 2022,5b7194b6,Crocheting,001,Hyflex,7fb7228a
+Fall 2022,c43dc911,Crocheting,001,Hyflex,7fb7228a
+Fall 2022,15c9c20e,Crocheting,001,Online Synchronous,69348504
+Fall 2022,2be66dc4,Eel Catching,001A,In-Person,ddc786c8
+Fall 2022,f469413c,Crocheting,010,In-Person,419b60ce
+Fall 2022,ce2a4774,Crocheting,001,In-Person,419b60ce
+Fall 2022,17f6e49f,Crocheting,010,Online Synchronous,32bac75b
+Fall 2022,498952c7,Crocheting,001,In-Person,d766b048
+Fall 2022,ffc0160e,Crocheting,001,Online Asynchronous,7e7ccb40
+Fall 2022,e72dd6c2,Crocheting,001,Online Synchronous,72389931
+Fall 2022,e818b329,Crocheting,001,Online Synchronous,72389931
+Fall 2022,b84dbbc8,Mahjong Strategy,000D,In-Person,c42dacfd
+Fall 2022,b3b4261f,Mahjong Strategy,000D,In-Person,7c82b00c
+Fall 2022,0dbe1ef3,Mahjong Strategy,000D,Online Synchronous,4bdd8e88
+Fall 2022,536a3d24,Mahjong Strategy,000G,Online Synchronous,82735270
+Fall 2022,e73beb4a,Mahjong Strategy,001,In-Person,30f54ddd
+Fall 2022,a3a83aa3,Mahjong Strategy,001,In-Person,30daba30
+Fall 2022,f0b4c3e1,Mahjong Strategy,001,Online Synchronous,75391c8d
+Fall 2022,3f65edeb,Mahjong Strategy,001,Online Synchronous,74bd7ee3
+Fall 2022,2fa61095,Mahjong Strategy,001,Online Synchronous,82005d92
+Fall 2022,4f84e073,Mahjong Strategy,001,In-Person,b72d0bb9
+Fall 2022,69637edb,Mahjong Strategy,001,Online Asynchronous,74bd7ee3
+Fall 2022,8e881c5e,Mahjong Strategy,001C,In-Person,b72d0bb9
+Fall 2022,454cd81a,Mahjong Strategy,002,Online Synchronous,1fa38796
+Fall 2022,79105857,Mahjong Strategy,002,In-Person,1f08d8f0
+Fall 2022,31fc8b27,Mahjong Strategy,002,Online Synchronous,045a390a
+Fall 2022,4a889971,Mahjong Strategy,003A,In-Person,5004ca71
+Fall 2022,d57a6a7a,Mahjong Strategy,003A,Hybrid,1fa38796
+Fall 2022,0e14114a,Mahjong Strategy,003A,In-Person,8bb57dea
+Fall 2022,26d563d3,Mahjong Strategy,003A,Online Synchronous,7c82b00c
+Fall 2022,b1afa926,Mahjong Strategy,003A,Online Synchronous,bb383f76
+Fall 2022,a7b31b65,Mahjong Strategy,003A,Online Synchronous,30ec5198
+Fall 2022,b96f3e77,Mahjong Strategy,003B,In-Person,4d07d7e3
+Fall 2022,020db758,Mahjong Strategy,003B,In-Person,77454894
+Fall 2022,afc63d36,Mahjong Strategy,003B,Online Synchronous,1f08d8f0
+Fall 2022,45035c99,Mahjong Strategy,003B,Online Synchronous,43e0ed7d
+Fall 2022,34e0b051,Mahjong Strategy,004A,In-Person,2e64caf3
+Fall 2022,9e95fa0d,Mahjong Strategy,004A,In-Person,4d07d7e3
+Fall 2022,fc559298,Mahjong Strategy,004A,Online Synchronous,30f54ddd
+Fall 2022,127f650e,Mahjong Strategy,004A,Online Synchronous,43e0ed7d
+Fall 2022,e4b12113,Mahjong Strategy,004A,In-Person,77454894
+Fall 2022,807eb882,Mahjong Strategy,004A,Online Asynchronous,4393de6e
+Fall 2022,05da0b41,Mahjong Strategy,004B,In-Person,045a390a
+Fall 2022,8a430f8f,Mahjong Strategy,004B,Online Asynchronous,16483b70
+Fall 2022,8b03617e,Mahjong Strategy,004C,In-Person,5004ca71
+Fall 2022,7792dccd,Mahjong Strategy,004C,Online Asynchronous,16483b70
+Fall 2022,e80f93d7,Mahjong Strategy,010,Hybrid,bb383f76
+Fall 2022,0388fd17,Mahjong Strategy,010,In-Person,8bb57dea
+Fall 2022,6929aa14,Mahjong Strategy,010,In-Person,75391c8d
+Fall 2022,29aab4cd,Mahjong Strategy,010,In-Person,56306ff5
+Fall 2022,36c21c7a,Mahjong Strategy,010,In-Person,36c4c411
+Fall 2022,2bf42456,Mahjong Strategy,010,In-Person,c42dacfd
+Fall 2022,da86a24e,Mahjong Strategy,010,In-Person,3b62d036
+Fall 2022,71160769,Mahjong Strategy,010,Online Synchronous,bb383f76
+Fall 2022,e3fa9179,Mahjong Strategy,010,Online Synchronous,dea94920
+Fall 2022,ad3ff871,Eel Catching,001B,In-Person,b799d602
+Fall 2022,050af281,Mahjong Strategy,010,Online Synchronous,dea94920
+Fall 2022,9c225087,Mahjong Strategy,010,Online Synchronous,dea94920
+Fall 2022,2d9532ab,Mahjong Strategy,010,Online Synchronous,dea94920
+Fall 2022,a407cc82,Mahjong Strategy,010,Online Synchronous,3b62d036
+Fall 2022,d9ceeb0a,Mahjong Strategy,010,Hybrid,3b62d036
+Fall 2022,685ad0f2,Mahjong Strategy,010,Online Synchronous,1fa38796
+Fall 2022,52884970,Mahjong Strategy,010,In-Person,2e64caf3
+Fall 2022,1b9496b9,Mahjong Strategy,010,Online Asynchronous,bda7d186
+Fall 2022,0658e45d,Mahjong Strategy,010,Online Asynchronous,dd8cc395
+Fall 2022,1344a34c,Mahjong Strategy,010,Online Asynchronous,4393de6e
+Fall 2022,5d193a06,Mahjong Strategy,010,Online Asynchronous,4393de6e
+Fall 2022,eda83a54,Mahjong Strategy,010C,Online Synchronous,3b62d036
+Fall 2022,c5398bfa,Mahjong Strategy,010C,Online Synchronous,1fa38796
+Fall 2022,10bb2784,Mahjong Strategy,010C,In-Person,2e64caf3
+Fall 2022,100017b4,Mahjong Strategy,012,In-Person,29a47fbe
+Fall 2022,fcf971d2,Mahjong Strategy,012,Online Synchronous,30ec5198
+Fall 2022,c4adf3da,Mahjong Strategy,012,In-Person,2e64caf3
+Fall 2022,aacc19c8,Mahjong Strategy,012,Online Asynchronous,30ec5198
+Fall 2022,60bdea5d,Mahjong Strategy,012,Online Asynchronous,7c82b00c
+Fall 2022,efd7a55f,Mahjong Strategy,012C,In-Person,2e64caf3
+Fall 2022,617b4d1c,Mahjong Strategy,014,In-Person,b72d0bb9
+Fall 2022,6aa94acc,Mahjong Strategy,019,Online Synchronous,7c82b00c
+Fall 2022,b595c389,Eel Catching,001A,In-Person,b5e59e1c
+Fall 2022,c83a4093,Eel Catching,099X,In-Person,3d55b6a3
+Fall 2022,62f3c5d9,Eel Catching,001A,In-Person,b799d602
+Fall 2022,1aad637a,Eel Catching,001A,In-Person,76ccc3a2
+Fall 2022,8cd82d77,Eel Catching,001A,In-Person,c6c1d748
+Fall 2022,5f6c0591,Eel Catching,001A,In-Person,3d55b6a3
+Fall 2022,78407003,Eel Catching,001A,Online Synchronous,0e343a50
+Fall 2022,28c2c335,Eel Catching,005A,In-Person,b799d602
+Fall 2022,71bc4218,Eel Catching,001A,In-Person,b5e59e1c
+Fall 2022,5594b70c,Eel Catching,001A,In-Person,c6c1d748
+Fall 2022,f0220d9e,Eel Catching,001A,In-Person,9c7a9f63
+Fall 2022,2788a467,Eel Catching,099X,In-Person,9c7a9f63
+Fall 2022,f298bcd1,Eel Catching,001A,In-Person,e11e3b64
+Fall 2022,934a415f,Eel Catching,001A,In-Person,703d15c9
+Fall 2022,75ed6b43,Eel Catching,001A,Online Synchronous,0d9fb080
+Fall 2022,2446aae7,Eel Catching,001A,In-Person,ddc786c8
+Fall 2022,33fd1c49,Eel Catching,001A,In-Person,b8f1185f
+Fall 2022,04c2a6fb,Eel Catching,001B,In-Person,78c87a35
+Fall 2022,1b320ee2,Eel Catching,001B,In-Person,76ccc3a2
+Fall 2022,23cb2fbc,Eel Catching,001A,In-Person,703d15c9
+Fall 2022,b34b1f55,Eel Catching,001A,Online Synchronous,3d55b6a3
+Fall 2022,746a7bf5,Eel Catching,001A,Online Synchronous,9fbdabcb
+Fall 2022,3aaa8b30,Eel Catching,046,Hybrid,1e36e8a1
+Fall 2022,f3b1c92d,Eel Catching,046H,Hybrid,1e36e8a1
+Fall 2022,aa13665f,Eel Catching,080,In-Person,ddc786c8
+Fall 2022,973405b1,Eel Catching,001B,In-Person,91de6e7e
+Fall 2022,3d0aa157,Eel Catching,001A,In-Person,c6c1d748
+Fall 2022,769d99b4,Eel Catching,001B,In-Person,ddc786c8
+Fall 2022,bd540e9f,Eel Catching,001A,In-Person,7c62ee9a
+Fall 2022,819f0017,Eel Catching,001A,In-Person,3d9863ef
+Fall 2022,9057059b,Eel Catching,001A,Online Synchronous,b2e13a0c
+Fall 2022,b050648e,Eel Catching,001B,In-Person,703d15c9
+Fall 2022,f367201b,Eel Catching,001C,In-Person,703d15c9
+Fall 2022,ec4f1368,Eel Catching,007A,In-Person,0e343a50
+Fall 2022,97cca1b6,Eel Catching,001B,In-Person,91de6e7e
+Fall 2022,133995d4,Eel Catching,001A,In-Person,7c62ee9a
+Fall 2022,b1cc439e,Eel Catching,001A,In-Person,78c87a35
+Fall 2022,29b3f621,Eel Catching,001A,Online Synchronous,3d9863ef
+Fall 2022,02cc207f,Eel Catching,001A,In-Person,76ccc3a2
+Fall 2022,db2df720,Eel Catching,001A,In-Person,78c87a35
+Fall 2022,4cfd83ae,Eel Catching,001B,In-Person,c441dc3b
+Fall 2022,424caeb4,Eel Catching,001A,Hybrid,9c7a9f63
+Fall 2022,8337dec6,Eel Catching,001B,In-Person,b799d602
+Fall 2022,2901b2f9,Eel Catching,001A,In-Person,d19592b6
+Fall 2022,8e49934b,Eel Catching,001A,Online Asynchronous,91de6e7e
+Fall 2022,dfc635c7,Eel Catching,001A,Online Asynchronous,91de6e7e
+Fall 2022,ee6bebef,Eel Catching,001A,Online Asynchronous,7c62ee9a
+Fall 2022,412cff19,Eel Catching,001A,Online Asynchronous,b8f1185f
+Fall 2022,ec3f6697,Eel Catching,001A,Online Asynchronous,e11e3b64
+Fall 2022,05c682df,Eel Catching,001B,Online Asynchronous,b5e59e1c
+Fall 2022,f5a717d4,Eel Catching,001B,Online Asynchronous,7c62ee9a
+Fall 2022,f014b7e0,Eel Catching,001A,Online Asynchronous,0e343a50
+Fall 2022,fd882d7d,Eel Catching,001B,Online Asynchronous,3d9863ef
+Fall 2022,d971458f,Eel Catching,001B,Online Asynchronous,3d9863ef
+Fall 2022,0740cca6,Eel Catching,001C,Online Asynchronous,1e36e8a1
+Fall 2022,cf6802c0,Eel Catching,041,Online Asynchronous,c441dc3b
+Fall 2022,62d09c38,Eel Catching,070,Online Asynchronous,e11e3b64
+Fall 2022,c34e86dc,Eel Catching,001A,Online Asynchronous,d19592b6
+Fall 2022,3eeafb5a,Eel Catching,001B,Online Asynchronous,7c62ee9a
+Fall 2022,86a01604,Eel Catching,001C,Online Asynchronous,3d9863ef
+Fall 2022,f78a82e6,Eel Catching,001A,Hybrid,b8f1185f
+Fall 2022,87f1a73e,Eel Catching,099X,Hybrid,b8f1185f
+Fall 2022,d41808a5,Eel Catching,001A,In-Person,1e36e8a1
+Fall 2022,4d04f1dd,Eel Catching,099X,In-Person,1e36e8a1
+Fall 2022,f80bc09f,Eel Catching,001B,In-Person,ddc786c8
+Fall 2022,6623f9d1,Eel Catching,001A,Online Synchronous,0d9fb080
+Fall 2022,82efc9d1,Eel Catching,001A,In-Person,1e36e8a1
+Fall 2022,924947e2,Eel Catching,001A,Online Synchronous,9fbdabcb
+Fall 2022,8989c705,Apple Picking,033A,In-Person,8081c442
+Fall 2022,8575f908,Apple Picking,047A,In-Person,cc2edd0e
+Fall 2022,2ef22fe6,Apple Picking,057A,Online Asynchronous,8081c442
+Fall 2022,d0722bcd,Apple Picking,057A,Online Asynchronous,8081c442
+Fall 2022,81fbdf3c,Apple Picking,057B,Online Asynchronous,8081c442
+Fall 2022,de567964,Apple Picking,031A,In-Person,e7088737
+Fall 2022,92d17843,Mahjong Strategy,000D,Online Asynchronous,4393de6e
+Fall 2022,356f5f5f,Apple Picking,049A,In-Person,49f20f01
+Fall 2022,d37ae4a7,Crocheting,001H,Hybrid,f2dfdec3
+Fall 2022,4a6f9a97,Apple Picking,049B,In-Person,49f20f01
+Fall 2022,da9d516f,Apple Picking,049D,In-Person,49f20f01
+Fall 2022,82018c29,Mahjong Strategy,001,Online Synchronous,30daba30
+Fall 2022,7a464037,Mahjong Strategy,001C,Online Synchronous,30daba30
+Fall 2022,16fa4d68,Mahjong Strategy,003AH,In-Person,30f54ddd
+Fall 2022,5f66f984,Mahjong Strategy,010,Online Synchronous,82005d92
+Fall 2022,bb6aceed,Apple Picking,062D,In-Person,fb10dc9f
+Fall 2022,c15dc1ad,Mahjong Strategy,010,Online Synchronous,82005d92
+Fall 2022,78a3cdde,Mahjong Strategy,010C,Online Synchronous,82005d92
+Fall 2022,7c93d8d1,Mahjong Strategy,010H,In-Person,bb383f76
+Fall 2022,9ae1b9f7,Mahjong Strategy,012,Online Synchronous,82005d92
+Fall 2022,814053cc,Mahjong Strategy,012C,Online Asynchronous,30ec5198
+Fall 2022,1df1e86e,Crocheting,001,Hybrid,d766b048
+Fall 2022,3c23b792,Apple Picking,035B,In-Person,d5e2ebe1
+Fall 2022,ce556741,Apple Picking,035C,In-Person,d5e2ebe1
+Fall 2022,a8e91e53,Apple Picking,035D,In-Person,d5e2ebe1
+Fall 2022,4ee3e5ca,Crocheting,001,In-Person,419b60ce
+Fall 2022,3a4544c2,Crocheting,001,Online Asynchronous,d6d3356b
+Fall 2022,596ac587,Crocheting,004,Online Asynchronous,32bac75b
+Fall 2022,29706113,Mahjong Strategy,004C,Online Asynchronous,16483b70
+Fall 2022,1c835db0,Crocheting,001,Online Asynchronous,509250c8
+Fall 2022,41faffc6,Eel Catching,001A,In-Person,78c87a35
+Fall 2022,4bc08f45,Eel Catching,001A,In-Person,c6c1d748
+Fall 2022,ed22653c,Eel Catching,001C,Online Asynchronous,1e36e8a1
+Fall 2022,e505a71d,Mahjong Strategy,004A,Online Asynchronous,82735270
+Fall 2022,52ac537b,Mahjong Strategy,004C,Online Asynchronous,16483b70
+Fall 2022,2abd8d40,Mahjong Strategy,004B,Online Asynchronous,16483b70
+Fall 2022,b5ef83cc,Crocheting,001,Online Asynchronous,7e7ccb40
+Fall 2022,29111231,Eel Catching,001A,Online Synchronous,b2e13a0c
+Fall 2023,edeaaeaa,Mahjong Strategy,000D,In-Person,1fa38796
+Fall 2023,263237f1,Mahjong Strategy,000D,In-Person,bda7d186
+Fall 2023,af51ab0e,Mahjong Strategy,000D,Online Asynchronous,2e64caf3
+Fall 2023,6541ec0c,Mahjong Strategy,000G,In-Person,dea94920
+Fall 2023,f698b82b,Mahjong Strategy,000G,In-Person,dea94920
+Fall 2023,19f78278,Mahjong Strategy,001,In-Person,30daba30
+Fall 2023,8e54468f,Mahjong Strategy,001,In-Person,30daba30
+Fall 2023,3d73efab,Mahjong Strategy,001,In-Person,5004ca71
+Fall 2023,2fb76f9e,Mahjong Strategy,001,Online Synchronous,82005d92
+Fall 2023,f01704f8,Mahjong Strategy,001,In-Person,30f54ddd
+Fall 2023,0523f2e9,Mahjong Strategy,001,In-Person,b72d0bb9
+Fall 2023,e5ab5723,Mahjong Strategy,001,Online Asynchronous,4393de6e
+Fall 2023,d2fc38be,Mahjong Strategy,001C,In-Person,30f54ddd
+Fall 2023,1057aed9,Mahjong Strategy,001C,In-Person,b72d0bb9
+Fall 2023,eac4138f,Mahjong Strategy,002,In-Person,5004ca71
+Fall 2023,4807d2dd,Mahjong Strategy,002,In-Person,1f08d8f0
+Fall 2023,3db7cd8a,Mahjong Strategy,002,Online Synchronous,74bd7ee3
+Fall 2023,3c8d6472,Mahjong Strategy,003A,In-Person,4d07d7e3
+Fall 2023,0a72d543,Mahjong Strategy,003A,In-Person,8bb57dea
+Fall 2023,8f4275d3,Mahjong Strategy,003A,In-Person,7c82b00c
+Fall 2023,ab2ace4c,Mahjong Strategy,003A,In-Person,2e64caf3
+Fall 2023,682514be,Mahjong Strategy,003A,Online Synchronous,1fa38796
+Fall 2023,c2190d88,Mahjong Strategy,003AH,In-Person,30f54ddd
+Fall 2023,3f129952,Mahjong Strategy,003B,In-Person,1fa38796
+Fall 2023,31aeafb2,Mahjong Strategy,003B,In-Person,30f54ddd
+Fall 2023,f1d109a3,Mahjong Strategy,003B,Online Synchronous,1fa38796
+Fall 2023,3aa019c6,Mahjong Strategy,004A,In-Person,75391c8d
+Fall 2023,b68b5aca,Mahjong Strategy,004A,In-Person,77454894
+Fall 2023,56dad8fb,Mahjong Strategy,004A,In-Person,43e0ed7d
+Fall 2023,6cbb231e,Mahjong Strategy,004A,Online Synchronous,4d07d7e3
+Fall 2023,ab92bd89,Mahjong Strategy,004A,Online Synchronous,75391c8d
+Fall 2023,2b630112,Mahjong Strategy,004A,Online Asynchronous,4393de6e
+Fall 2023,92910aec,Mahjong Strategy,004B,In-Person,045a390a
+Fall 2023,54c08412,Mahjong Strategy,004B,Online Asynchronous,16483b70
+Fall 2023,d0f58783,Mahjong Strategy,004C,In-Person,2e64caf3
+Fall 2023,4e35aad2,Mahjong Strategy,004C,Online Asynchronous,16483b70
+Fall 2023,7bbaf674,Mahjong Strategy,004C,Online Asynchronous,16483b70
+Fall 2023,7b89ea78,Mahjong Strategy,010,In-Person,74bd7ee3
+Fall 2023,d64b17b8,Mahjong Strategy,010,In-Person,29a47fbe
+Fall 2023,71dbc0df,Mahjong Strategy,010,In-Person,3b62d036
+Fall 2023,038d9984,Mahjong Strategy,010,In-Person,dd8cc395
+Fall 2023,a69ed3d4,Mahjong Strategy,010,In-Person,c42dacfd
+Fall 2023,7e7e19d5,Mahjong Strategy,010,In-Person,8bb57dea
+Fall 2023,62c9c23c,Mahjong Strategy,010,In-Person,3b62d036
+Fall 2023,c77b9b5d,Mahjong Strategy,010,In-Person,dd8cc395
+Fall 2023,0854fb96,Mahjong Strategy,010,In-Person,c42dacfd
+Fall 2023,db61363b,Mahjong Strategy,010,In-Person,2e64caf3
+Fall 2023,2ce522c7,Mahjong Strategy,010,In-Person,1f08d8f0
+Fall 2023,4e80b049,Mahjong Strategy,010,In-Person,36c4c411
+Fall 2023,7fe3c422,Mahjong Strategy,010,Online Synchronous,82005d92
+Fall 2023,3fb235c1,Mahjong Strategy,010,Online Synchronous,dea94920
+Fall 2023,7bb9a8cd,Mahjong Strategy,010,Online Synchronous,82005d92
+Fall 2023,92d6ac53,Mahjong Strategy,010,Online Asynchronous,3b62d036
+Fall 2023,221cf60b,Mahjong Strategy,010,Online Asynchronous,3b62d036
+Fall 2023,3bb1335e,Mahjong Strategy,010,Online Asynchronous,82735270
+Fall 2023,47b910d3,Mahjong Strategy,010,Online Asynchronous,bda7d186
+Fall 2023,640b411d,Mahjong Strategy,010C,In-Person,1f08d8f0
+Fall 2023,70f8d11c,Mahjong Strategy,010C,In-Person,36c4c411
+Fall 2023,2f9ff955,Mahjong Strategy,010H,In-Person,bb383f76
+Fall 2023,ffc4635b,Mahjong Strategy,012,In-Person,7c82b00c
+Fall 2023,06639521,Mahjong Strategy,012,Online Synchronous,045a390a
+Fall 2023,ba1e9d41,Mahjong Strategy,012,Online Asynchronous,4393de6e
+Fall 2023,e34df647,Mahjong Strategy,019,In-Person,7c82b00c
+Fall 2023,1489a58f,Eel Catching,001A,In-Person,b799d602
+Fall 2023,787507e8,Eel Catching,001A,Hybrid,1e36e8a1
+Fall 2023,c83eeeb9,Eel Catching,001A,In-Person,afb3629d
+Fall 2023,912b7d20,Eel Catching,001A,In-Person,c6c1d748
+Fall 2023,746da47e,Eel Catching,001A,In-Person,78c87a35
+Fall 2023,d4f46e6b,Eel Catching,001A,In-Person,e11e3b64
+Fall 2023,d16e5fa8,Eel Catching,001A,In-Person,703d15c9
+Fall 2023,391626e9,Eel Catching,001A,In-Person,c6c1d748
+Fall 2023,db2edc8c,Eel Catching,001A,In-Person,ddc786c8
+Fall 2023,cf133225,Eel Catching,001A,In-Person,b799d602
+Fall 2023,f7d95f69,Eel Catching,001A,In-Person,76ccc3a2
+Fall 2023,0448e05a,Eel Catching,001A,In-Person,e02ece4e
+Fall 2023,4139b9a8,Eel Catching,001A,In-Person,0d9fb080
+Fall 2023,e9c9cda6,Eel Catching,001A,In-Person,91de6e7e
+Fall 2023,48f92838,Eel Catching,001A,In-Person,b5e59e1c
+Fall 2023,a7e72e36,Eel Catching,001A,In-Person,3d55b6a3
+Fall 2023,236e7364,Eel Catching,001A,In-Person,9fbdabcb
+Fall 2023,35617500,Eel Catching,001A,In-Person,b5e59e1c
+Fall 2023,2099f2c2,Eel Catching,001A,In-Person,78c87a35
+Fall 2023,125e818e,Eel Catching,001A,In-Person,ddc786c8
+Fall 2023,d52a9ef6,Eel Catching,001A,In-Person,78c87a35
+Fall 2023,b61bb9d8,Eel Catching,001A,Online Asynchronous,9c7a9f63
+Fall 2023,7dd981ff,Eel Catching,001A,Online Asynchronous,0e343a50
+Fall 2023,2fc5946c,Eel Catching,001A,Online Asynchronous,7c62ee9a
+Fall 2023,7b4b9c9c,Eel Catching,001A,Online Asynchronous,7c62ee9a
+Fall 2023,9dfc2212,Eel Catching,001A,Online Asynchronous,3d9863ef
+Fall 2023,0bf740c9,Eel Catching,001A,Online Synchronous,9fbdabcb
+Fall 2023,7c8dbbc8,Eel Catching,001A,In-Person,b799d602
+Fall 2023,e89afd4c,Eel Catching,001A,Online Asynchronous,91de6e7e
+Fall 2023,2e02d85e,Eel Catching,001A,Online Asynchronous,b2e13a0c
+Fall 2023,d9e0c747,Eel Catching,001A,In-Person,807896f4
+Fall 2023,ecf81349,Eel Catching,001A,In-Person,0d9fb080
+Fall 2023,7d02293b,Eel Catching,001A,Online Asynchronous,9c7a9f63
+Fall 2023,486068cc,Eel Catching,001A,Online Synchronous,d19592b6
+Fall 2023,1679f4c5,Eel Catching,001A,In-Person,3d55b6a3
+Fall 2023,67606193,Eel Catching,001A,In-Person,9c7a9f63
+Fall 2023,89d3b548,Eel Catching,001A,In-Person,3d9863ef
+Fall 2023,1b6c00fd,Eel Catching,001A,In-Person,76ccc3a2
+Fall 2023,87c1ff02,Eel Catching,001A,In-Person,1e36e8a1
+Fall 2023,45f34979,Eel Catching,001B,In-Person,703d15c9
+Fall 2023,ec8b4504,Eel Catching,001B,In-Person,afb3629d
+Fall 2023,44fdc9ea,Eel Catching,001B,In-Person,78c87a35
+Fall 2023,b3fe1d1d,Eel Catching,001B,In-Person,c6c1d748
+Fall 2023,94942af0,Eel Catching,001B,In-Person,7c62ee9a
+Fall 2023,4aee7396,Eel Catching,001B,In-Person,91de6e7e
+Fall 2023,1e76b854,Eel Catching,001B,In-Person,c6c1d748
+Fall 2023,fb17d6e1,Eel Catching,001B,In-Person,78c87a35
+Fall 2023,c60ded16,Eel Catching,001B,In-Person,b799d602
+Fall 2023,6af5f7b8,Eel Catching,001B,Online Asynchronous,e11e3b64
+Fall 2023,5a878995,Eel Catching,001B,Online Asynchronous,c441dc3b
+Fall 2023,b6c1d614,Eel Catching,001B,Online Asynchronous,76ccc3a2
+Fall 2023,515b5b84,Eel Catching,001B,Online Asynchronous,91de6e7e
+Fall 2023,d655d70e,Eel Catching,001B,Online Asynchronous,0e343a50
+Fall 2023,16646e9c,Eel Catching,001B,Online Asynchronous,1e36e8a1
+Fall 2023,1813a1fb,Eel Catching,001B,Online Asynchronous,1e36e8a1
+Fall 2023,863ea60f,Eel Catching,001B,Online Asynchronous,b5e59e1c
+Fall 2023,fbd6d9d6,Eel Catching,001C,In-Person,703d15c9
+Fall 2023,28513e53,Eel Catching,001C,Online Synchronous,b2e13a0c
+Fall 2023,4df4d414,Eel Catching,001C,Online Asynchronous,3d9863ef
+Fall 2023,9e184ed7,Eel Catching,001C,Online Asynchronous,3d9863ef
+Fall 2023,23acf04b,Eel Catching,005A,In-Person,b799d602
+Fall 2023,7e0fa3f9,Eel Catching,007A,In-Person,c441dc3b
+Fall 2023,0e244782,Eel Catching,010,In-Person,ddc786c8
+Fall 2023,751b4684,Eel Catching,013,Online Asynchronous,7c62ee9a
+Fall 2023,6e0251c7,Eel Catching,013H,Online Asynchronous,7c62ee9a
+Fall 2023,7aac32b6,Apple Picking,055,Hybrid,af87a468
+Fall 2023,eb5fd2dc,Apple Picking,001A,Online Asynchronous,bfbd13fa
+Fall 2023,7849060a,Apple Picking,001B,Hyflex,bfbd13fa
+Fall 2023,6bc89b6d,Apple Picking,001B,Online Asynchronous,bfbd13fa
+Fall 2023,26b3e9e7,Apple Picking,001D,Hyflex,bfbd13fa
+Fall 2023,9c13516f,Apple Picking,001E,Hyflex,647b620c
+Fall 2023,0a7d609f,Apple Picking,004,Online Asynchronous,647b620c
+Fall 2023,2a0bf5f6,Apple Picking,004,Online Asynchronous,647b620c
+Fall 2023,c594da9b,Apple Picking,010,Online Asynchronous,647b620c
+Fall 2023,d98d2f5a,Apple Picking,012A,Online Asynchronous,bfbd13fa
+Fall 2023,59d29fa8,Apple Picking,014,Online Asynchronous,bfbd13fa
+Fall 2023,90fb28ee,Apple Picking,031A,In-Person,cc2edd0e
+Fall 2023,d0f52328,Apple Picking,031A,Online Asynchronous,49f20f01
+Fall 2023,343a017d,Apple Picking,031A,Online Asynchronous,647b620c
+Fall 2023,1aa0a664,Apple Picking,031B,In-Person,05a52d22
+Fall 2023,f1fed615,Crocheting,012,Online Asynchronous,509250c8
+Fall 2023,510263fa,Crocheting,001,In-Person,d72fc7c3
+Fall 2023,5c4bf063,Crocheting,001,In-Person,d72fc7c3
+Fall 2023,0b2e43cc,Crocheting,008,In-Person,f2dfdec3
+Fall 2023,70de5cfb,Crocheting,001,Online Asynchronous,d72fc7c3
+Fall 2023,a552e9eb,Crocheting,001,Online Asynchronous,d72fc7c3
+Fall 2023,68725770,Crocheting,008,Online Synchronous,f2dfdec3
+Fall 2023,e036dd23,Apple Picking,033A,In-Person,8081c442
+Fall 2023,805aedca,Apple Picking,035A,In-Person,cc2edd0e
+Fall 2023,f49d80bd,Apple Picking,035A,In-Person,d5e2ebe1
+Fall 2023,99a3a8d2,Apple Picking,035B,In-Person,d5e2ebe1
+Fall 2023,3ccb658f,Apple Picking,035C,In-Person,d5e2ebe1
+Fall 2023,2f4566fb,Apple Picking,047A,In-Person,cc2edd0e
+Fall 2023,5758ce20,Apple Picking,049A,In-Person,49f20f01
+Fall 2023,c964b3d7,Apple Picking,049B,In-Person,49f20f01
+Fall 2023,0441b72a,Apple Picking,049C,In-Person,49f20f01
+Fall 2023,aa2208d2,Apple Picking,057A,Online Asynchronous,8081c442
+Fall 2023,dcb71d5e,Apple Picking,057A,Hybrid,8081c442
+Fall 2023,3d9f7041,Apple Picking,057B,Hybrid,8081c442
+Fall 2023,f96df379,Apple Picking,057C,Hybrid,8081c442
+Fall 2023,38e66267,Apple Picking,062A,Online Asynchronous,f63c05a5
+Fall 2023,5ee03916,Apple Picking,062A,In-Person,fb10dc9f
+Fall 2023,50e3a9bc,Apple Picking,062C,In-Person,fb10dc9f
+Fall 2023,6f6e89bf,Apple Picking,065A,In-Person,dc5353b0
+Fall 2023,db260912,Apple Picking,065B,In-Person,838a6a88
+Fall 2023,96a5766d,Apple Picking,065C,In-Person,838a6a88
+Fall 2023,01ff6bcd,Apple Picking,067A,In-Person,958d363d
+Fall 2023,1eb07d20,Apple Picking,067B,In-Person,3f68ace9
+Fall 2023,db78c001,Apple Picking,081,In-Person,838a6a88
+Fall 2023,d98bfc61,Apple Picking,088A,In-Person,838a6a88
+Fall 2023,8707d700,Apple Picking,095,Online Asynchronous,f7986b78
+Fall 2023,2457ead8,Apple Picking,033A,Hybrid,af87a468
+Fall 2023,8a942b6c,Apple Picking,033C,Hybrid,af87a468
+Fall 2023,5e4d6986,Crocheting,004,In-Person,f2dfdec3
+Fall 2023,c89bb8a6,Crocheting,001,Hybrid,f2dfdec3
+Fall 2023,abe7e580,Crocheting,001,Hybrid,d766b048
+Fall 2023,7380aa2a,Crocheting,001,Hybrid,f2dfdec3
+Fall 2023,a16020fb,Crocheting,001,Online Synchronous,509250c8
+Fall 2023,e6722bf0,Crocheting,012,In-Person,509250c8
+Fall 2023,cec78a62,Crocheting,020,Hybrid,509250c8
+Fall 2023,9ecefdaa,Crocheting,020,Hybrid,509250c8
+Fall 2023,df10780e,Crocheting,001,Online Synchronous,509250c8
+Fall 2023,a9b76c24,Crocheting,001,Online Asynchronous,72389931
+Fall 2023,880debc8,Crocheting,001,In-Person,7fb7228a
+Fall 2023,42d22603,Crocheting,001,In-Person,7fb7228a
+Fall 2023,fdf700fa,Crocheting,001,Online Asynchronous,69348504
+Fall 2023,8136819f,Crocheting,001,In-Person,419b60ce
+Fall 2023,63628540,Crocheting,010H,In-Person,419b60ce
+Fall 2023,a9412f47,Crocheting,010,Online Synchronous,32bac75b
+Fall 2023,0db073a9,Crocheting,004,Online Asynchronous,32bac75b
+Fall 2023,83a6f7c8,Crocheting,010,Hybrid,d766b048
+Fall 2023,a8ec0ada,Crocheting,001,Online Synchronous,72389931
+Fall 2023,3a2bc752,Mahjong Strategy,003A,In-Person,29a47fbe
+Fall 2023,9f35f533,Mahjong Strategy,004A,Online Asynchronous,bb383f76
+Fall 2023,9e906ab4,Mahjong Strategy,004C,Online Asynchronous,16483b70
+Fall 2023,76eebfe8,Mahjong Strategy,010,Online Synchronous,dea94920
+Fall 2023,9f268688,Mahjong Strategy,010,Online Synchronous,82005d92
+Fall 2023,ac6b3347,Mahjong Strategy,010C,Online Synchronous,82005d92
+Fall 2023,9cd2d9d8,Apple Picking,001A,Hyflex,647b620c
+Fall 2023,96e1cf14,Apple Picking,001DH,Hyflex,bfbd13fa
+Fall 2023,0eea0cf5,Apple Picking,031A,Online Asynchronous,af87a468
+Fall 2023,2c04912c,Apple Picking,049A,In-Person,49f20f01
+Fall 2023,89df1931,Crocheting,007,Online Asynchronous,028ed6ef
+Fall 2023,89b0c397,Eel Catching,070,In-Person,703d15c9
+Fall 2023,f0224884,Eel Catching,080,In-Person,ddc786c8
+Fall 2023,79dc4916,Eel Catching,001A,In-Person,807896f4
+Fall 2023,5c966303,Eel Catching,099X,In-Person,3d55b6a3
+Fall 2023,3f3d468e,Eel Catching,099X,In-Person,9c7a9f63
+Fall 2023,de8d43b4,Eel Catching,099X,In-Person,76ccc3a2
+Fall 2023,48d8bf4d,Eel Catching,099X,In-Person,3d9863ef
+Fall 2023,9b7d060b,Eel Catching,099X,In-Person,1e36e8a1
+Fall 2023,de0d2d01,Crocheting,001,Online Asynchronous,d72fc7c3
+Fall 2023,af63dc68,Crocheting,001,In-Person,419b60ce
+Fall 2023,36aef59e,Crocheting,001,Online Asynchronous,7fb7228a
+Fall 2023,c9bad7ad,Crocheting,001,Hybrid,d6d3356b
+Fall 2023,2889a0eb,Crocheting,001,Hybrid,d766b048
+Fall 2023,94155c1b,Mahjong Strategy,004A,Online Asynchronous,4393de6e
+Fall 2023,9988d069,Mahjong Strategy,003A,Online Asynchronous,82735270
+Fall 2023,a8371f49,Mahjong Strategy,004B,Online Asynchronous,16483b70
+Fall 2023,1e121008,Crocheting,001,Online Synchronous,d6d3356b
